@@ -1,0 +1,51 @@
+body,
+html{
+    background: url(https://static.vecteezy.com/system/resources/previews/004/640/503/non_2x/black-sky-with-stars-space-background-free-photo.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    font-family: 'Righteous', cursive;
+}
+
+h1{
+    font-size: 4rem;
+    color: rgb(214, 214, 214);
+    padding: 280px 0px 0px 0px;
+}
+
+hr{
+    color: rgb(174, 0, 255);
+    border-width: 3px;
+    max-width: 60px;
+    margin: 20px auto;
+
+}
+
+
+.btn{
+    border-radius: 300px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 0px 0px 280px 0px;
+}
+
+.btn-primary{
+    background-color: blueviolet;
+    border-color: blueviolet;
+}
+
+.btn-primary:hover{
+    background-color: #250147;
+    border-color: #250147;
+    border-width: 4px;
+}
+
+
+
+
+.btn-lg{
+    padding: 1rem 3rem ;
+}
